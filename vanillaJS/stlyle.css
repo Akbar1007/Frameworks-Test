@@ -1,0 +1,20 @@
+body {
+	position: center;
+	align-items: center;
+}
+
+.header {
+	background-color: red;
+	position: center;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.wrapper {
+	background-color: blue;
+	position: center;
+	display: flex;
+	justify-content: center;
+}
