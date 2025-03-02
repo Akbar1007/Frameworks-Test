@@ -1,9 +1,6 @@
-// Get DOM elements
 const form = document.querySelector('form')
 const input = document.querySelector("[name='todo']")
 const todoList = document.getElementById('todos')
-
-// Side Effects / Lifecycle
 
 const existingTodos = JSON.parse(localStorage.getItem('todos')) || []
 
@@ -22,7 +19,6 @@ function addTodo(todoText) {
 	input.value = ''
 }
 
-// Events
 form.onsubmit = event => {
 	event.preventDefault()
 	addTodo(input.value)
