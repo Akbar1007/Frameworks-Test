@@ -1,0 +1,15 @@
+<div class="header">
+  <h1>Angular To-Do App</h1>
+  <h3>Using Angular, TypeScript, and Local Storage</h3>
+</div>
+
+<div class="wrapper">
+  <ul>
+    <li *ngFor="let todo of todos">{{ todo }}</li>
+  </ul>
+
+  <form (submit)="addTodo()">
+    <input name="todo" type="text" [(ngModel)]="todoText" placeholder="Enter a todo">
+    <input type="submit" value="Add Todo">
+  </form>
+</div>
