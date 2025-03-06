@@ -2,7 +2,7 @@
 
 ## Frameworks Included
 
-- ![Alpine](https://alpinejs.dev/logo.svg =20x20) **Alpine.js**
+- <img src="https://alpinejs.dev/logo.svg" width="16" height="16" alt="Alpine.js"> **Alpine**
 - ![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg =20x20) **Angular**
 - ![Lit](/lit-app/assets/lit.png =20x20) **Lit**
 - ![Mithril](https://mithril.js.org/logo.svg =20x20) **Mithril**
@@ -17,4 +17,4 @@ Each folder contains a standalone implementation of the To-Do app using the resp
 
 ## Purpose
 
-This project helps understand the strengths and weaknesses of each JS framework (or library). You can also determine the best fit for different use cases.
+This project helps understand the strengths and weaknesses of each JS framework (or library). You can also determine the best fit for yourself and different projects.
