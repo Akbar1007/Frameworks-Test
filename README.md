@@ -12,6 +12,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="16" height="16" alt="Svelte"> **Svelte**
 - <img src="/vanilla-app/favicon.jpg" width="16" height="16" alt="Vanilla"> **Vanilla JavaScript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="16" height="16" alt="Vue"> **Vue**
+- <img src="/hono-app/public/icon-readme.jfif" width="16" height="16" alt="Hone"> **Hone**
 
 Each folder contains a standalone implementation of the To-Do app using the respective framework.
 
